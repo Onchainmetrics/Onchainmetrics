@@ -6,10 +6,10 @@
 
 🛠️ Specializing in:
 - On-chain data analysis and visualization
-- DeFi metrics and analytics
+- Memecoin metrics and analytics
 - Blockchain data-driven applications
 - Statistical modeling for crypto markets
 
 🔮 Building tools that help make blockchain data more accessible and meaningful
-
+https://dune.com/onchainmetrics/spl-token-analyzoor
 📊 Where data meets decentralization
