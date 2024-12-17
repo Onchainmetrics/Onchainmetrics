@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm @onchainmetrics
 
-<!--
-**Onchainmetrics/Onchainmetrics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Web3 Data Scientist & Blockchain Analytics Developer
 
-Here are some ideas to get you started:
+💡 Passionate about transforming on-chain data into actionable insights and building applications that bridge the gap between blockchain data and user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Specializing in:
+- On-chain data analysis and visualization
+- DeFi metrics and analytics
+- Blockchain data-driven applications
+- Statistical modeling for crypto markets
+
+🔮 Building tools that help make blockchain data more accessible and meaningful
+
+📊 Where data meets decentralization
