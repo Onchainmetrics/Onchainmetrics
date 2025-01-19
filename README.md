@@ -1,6 +1,6 @@
 # 👋 Hi, I'm @onchainmetrics
 
-🔍 Web3 Data Scientist & Blockchain Analytics Developer
+🔍 Blockchain Analytics Developer & Data Engineer
 
 💡 Passionate about transforming on-chain data into actionable insights and building applications that bridge the gap between blockchain data and user experience.
 
