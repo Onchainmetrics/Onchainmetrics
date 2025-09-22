@@ -1,15 +1,7 @@
 # 👋 Hi, I'm @onchainmetrics
 
-🔍 Blockchain Analytics Developer & Data Engineer
+🔍 Crypto Data Scientist | Real-time Alpha Detection & Advanced Clustering
 
-💡 Passionate about transforming on-chain data into actionable insights and building applications that bridge the gap between blockchain data and user experience.
-
-🛠️ Specializing in:
-- On-chain data analysis and visualization
-- Memecoin metrics and analytics
-- Blockchain data-driven applications
-- Statistical modeling for crypto markets
-
-🔮 Building tools that help make blockchain data more accessible and meaningful
-https://dune.com/onchainmetrics/spl-token-analyzoor
-📊 Where data meets decentralization
+  Building production systems that detect coordinated trading networks using graph algorithms & statistical modeling 💻 Python • R • Dune SQL • 
+  AWS 🚀 Live systems: CA_Scanner (real-time alerts) | r_frameworks (insider clustering) 📈 Proven track record identifying market manipulation 
+  patterns
